@@ -178,8 +178,8 @@ curl -X POST https://stellar-analytics-backend.onrender.com/predict/full \
 
 | Name | Role |
 |------|------|
-| **Aryan Sinha** | ML & Backend |
-| **Mihir Waghmare** | Frontend & API |
+| **Aryan Sinha** | Frontend & API |
+| **Mihir Waghmare** | ML & Backend |
 | **Anushka** | EDA & Analysis |
 
 **Indian Institute of Technology (BHU) Varanasi**
@@ -195,3 +195,4 @@ curl -X POST https://stellar-analytics-backend.onrender.com/predict/full \
 ---
 
 *Stellar Analytics · TECHNEX '26 · IIT BHU*
+
